@@ -1,5 +1,5 @@
 # ColorSwapShader
-Unity project with a nice shader that can swap colors and create dynamic colors inside the game
+Unity project with a nice shader that can swap colors(black/white/red) and create dynamic colors inside the game
 
 I am presenting the ColorSwapShader, a remake of this tutorial from YT from Francis Vace ( https://www.youtube.com/watch?v=VwDshEqwo7g 
 
